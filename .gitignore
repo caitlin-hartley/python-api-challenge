@@ -166,3 +166,6 @@ api_keys.py
 
 #DS_Store files
 .DS_Store
+
+#Checkpoints
+.ipynb_checkpoints
