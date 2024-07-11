@@ -7,9 +7,7 @@
 
 ----------------------
 
-[Vacation!]
-
-[Humidity Map!]
+[Vacation](https://github.com/caitlin-hartley/python-api-challenge/blob/main/README.md#filtering-cities-finding-hotels-making-maps)
 
 [Hotels Map!]
 
@@ -109,6 +107,8 @@ Created a map that displays a point for every city in the city_data_df DataFrame
 Filtered the data based on chosen weather conditions for prefered weather and loaded into new dataframe:
 
 ![chosen](https://github.com/caitlin-hartley/python-api-challenge/blob/main/output_data/filtering_cities.png)
+
+## Hotels Map
 
 Used Geoapify to find hotels within 10,000 meters of each city in the hotel dataframe. Created map with names of these cities and the hotels that were found within 10,000 meters. 
 
