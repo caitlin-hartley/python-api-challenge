@@ -1,8 +1,7 @@
 # python-api-challenge
+----------------------
 
 [Weather](https://github.com/caitlin-hartley/python-api-challenge/blob/main/README.md#analyzing-weather-relative-to-the-equator-through-a-series-of-plots-and-regressions)
-
-[Scatter Plots]
 
 [Regression Plots!]
 
@@ -12,6 +11,8 @@
 [Humidity Map!]
 
 [Hotels Map!]
+
+----------------------
 
 ## Analyzing weather relative to the equator through a series of plots and regressions
 
