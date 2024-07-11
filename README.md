@@ -9,7 +9,7 @@
 
 [Vacation](https://github.com/caitlin-hartley/python-api-challenge/blob/main/README.md#filtering-cities-finding-hotels-making-maps)
 
-[Hotels Map!]
+[Hotels Map](https://github.com/caitlin-hartley/python-api-challenge/blob/main/README.md#hotels-map)
 
 ----------------------
 
