@@ -1,6 +1,6 @@
 # python-api-challenge
 
-[Weather!]
+[Weather!](https://github.com/caitlin-hartley/python-api-challenge/blob/main/README.md#analyzing-weather-relative-to-the-equator-through-a-series-of-plots-and-regressions)
 
 [Scatter Plots!]
 
